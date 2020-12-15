@@ -2,7 +2,7 @@
 
 ## Fork & Clone this repo.
 
-Review the [Project 3 requirements](https://tmdarneille.gitbook.io/sei-ga-sea/11-projects/project-3#project-feedback-evaluation) and check out some [examples](https://tmdarneille.gitbook.io/sei-ga-sea/11-projects/past-projects/project3).
+Review the [Project 3 Overview](https://romebell.gitbook.io/sei-1019/projects/project-3), [Requirement Rubric](https://github.com/SEI-ATL/UNIT_3/projects/3), and check out some [examples](https://romebell.gitbook.io/sei-1019/projects/past-projects/project3#project-3-group).
 
 Provide information in the following sections:
 
