@@ -4,6 +4,8 @@
 
 ### Concept
 
+Personal budgetting app
+
 ### Name
 
 Kaleidoscope
@@ -17,7 +19,14 @@ Kaleidoscope
 
 ### Roles
 
+- Git Master: Jackson Reeves
+- Lead Designer: Alan Avery
+- Creative Director: Thomas Gilbert
+- User Experience Manager: Jeremy Uriz
+
 ### Summary
+
+Our app lets you easily see how simple changes to your situation can dramatically change your budget options. The app's sidebar constantly updates to show you the effects of changes in your location, income, expenses, and more.
 
 ----------------------------------------------------------
 
@@ -87,6 +96,8 @@ Kaleidoscope
 ----------------------------------------------------------
 
 ## Additional Technologies
+
+We need to research additional APIs that we can implement to flesh out some of the app's specific functionalities.
 
 ----------------------------------------------------------
 
