@@ -4,7 +4,7 @@
 
 ### Concept
 
-Personal budgetting app
+Personal budgeting app
 
 ### Name
 
@@ -104,14 +104,30 @@ We need to research additional APIs that we can implement to flesh out some of t
 ## Schedule
 
 ### Day One
+- Both repos created
+- All pages and navigation skeleton created
+- Home page built out
 
 ### Day Two
+- Full CRUD functionality implemented on at least one model
 
 ### Day Three
+- Buckets for each section of the app designated for each person
+- Ready to research API's for flex goals
+- Location implemented as test
+- Seeder file created
+- CSS style guide established
 
 ### Day Four
+- Each person builds out their section to a final, working form
+- Organically adapt CSS style guide to changing needs of the app
 
 ### Day Five
+- Edit code for clarity
+- Finalize style of app
+- Ensure user experience is enjoyable and works across multiple platforms
+- Finalize README
+- Prepare for presentation
 
 ----------------------------------------------------------
 
