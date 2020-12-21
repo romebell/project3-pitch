@@ -1,7 +1,5 @@
 # Project 3 Pitch
 
-----------------------------------------------------------
-
 ## Overview
 
 ### Concept
@@ -56,7 +54,7 @@
 
 ![Expense Log](/images/expense-log.png)
 
-![App Map](/images/kaleidoscope-app-map.png)
+![App Map](/images/kaleidoscope-app-map.jpg)
 
 ![Main Page](/images/main-page.png)
 
